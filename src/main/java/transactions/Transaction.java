@@ -1,7 +1,5 @@
 package transactions;
 
-import transactions.Trader;
-
 public class Transaction {
     private final Trader trader;
     private final int    year;
